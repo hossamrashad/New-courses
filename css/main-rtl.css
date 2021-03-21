@@ -1,0 +1,19 @@
+.slider-text-rtl {
+  right: 12%;
+  left: 0;
+}
+
+.popup .inner .button-rtl {
+  position: absolute;
+  bottom: 5px;
+  right: 259px;
+}
+
+nav .container .navbar-collapse .naibar-icon button {
+  width: 140px;
+}
+
+.inner-call-us-rtl {
+  top: 18% !important;
+}
+/*# sourceMappingURL=main-rtl.css.map */
